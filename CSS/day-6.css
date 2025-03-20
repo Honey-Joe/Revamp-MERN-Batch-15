@@ -1,0 +1,52 @@
+.para{
+    font-family: "Poppins", sans-serif;
+    font-size: 10px ;
+    font-weight: 900;
+    text-transform: capitalize;
+    color: #fff000;
+}
+
+.container-div{
+    background-color: black;
+    /* color: #3769CC; */
+    background-image: url("https://ik.imagekit.io/HoneyJoe/St-Joseph-College-Trichy.jpeg?updatedAt=1741577761889");
+    background-size: cover;
+    height: 200px !important;
+    /* opacity: 0.1; */
+    /* background-position: 20px 20px; */
+    /* width: 300px; */
+}
+.div-para{
+    color: #3769CC;
+}
+.box-model{
+    width: 200px;
+    height: 200px;
+    background-color: #3769CC;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 2px;
+    border-width: 5px;
+    border-radius: 20px;
+    /* border-top-width: 10px; */
+    border-color: #fff000;
+    border-style: double;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 2px;
+}
+.box-model-child{
+    width: 50vw;
+    height: 20vh;
+    background-color: #fff000;
+}
+/* 
+1. hexadecimal color code
+2. rgb color code   
+3. hsl color code */
+
+/* aspect ratio  */
+
+/* aspect ratio = width / height */
